@@ -1,0 +1,6 @@
+REQ-1 | ITM-1 | Laptop | 5 | 2023-11-22 | john doe | SM
+REQ-2 | ITM-2 | Monitor | 3 | 2023-12-01 | jane smith | PM
+REQ-3 | ITM-3 | Keyboard | 10 | 2023-11-15 | Michael johnson | SM
+REQ-4 | ITM-4 | Mouse | 8 | 2023-11-28 | Emily brown | SM
+REQ-5 | ITM-5 | Headset | 2 | 2023-12-05 | David lee | PM
+REQ-6 | ITM-2 | Monitor | 2 | 2024-12-06 | User | SM

@@ -1,0 +1,8 @@
+PO1 | 2023-11-25 | ITM-1 | Laptop | 5 | SupplierA | User1 | Approved
+PO2 | 2023-11-28 | ITM-2 | Monitor | 15 | SupplierB | User1 | Pending
+PO3 | 2023-12-02 | ITM-3 | Keyboard | 20 | SupplierD | User1 | Pending
+PO4 | 2023-12-05 | ITM-4 | Mouse | 30 | SupplierB | User1 | Pending
+PO5 | 2023-12-08 | ITM-5 | Headset | 10 | SupplierC | User1 | Pending
+PO6 | 2023-12-12 | ITM-2 | Monitor | 8 | SupplierB | User1 | Pending
+PO7 | 2023-12-15 | ITM-4 | Mouse | 15 | SupplierB | User1 | Pending
+PO8 | 2023-12-18 | ITM-5 | Headset | 7 | SupplierC | User1 | Approved

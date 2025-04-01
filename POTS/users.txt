@@ -1,0 +1,5 @@
+admin | admin | John Doe | Admin | johndoe@example.com | 1234567890
+sales | sales123 | Jane Smith | SalesManager | janesmith@example.com | 9876543210
+purchase | purchase123 | Michael Brown | PurchaseManager | michaelbrown@example.com | 1122334455
+inventory | inventory123 | Emily Davis | InventoryManager | emilydavis@example.com | 2233445566
+finance | finance123 | Robert Wilson | FinanceManager | robertwilson@example.com | 3344556677

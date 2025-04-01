@@ -1,0 +1,11 @@
+PAY-1 | 2023-11-25 | ITM-1 | Laptop | 5 | SupplierA | Paid
+PAY-2 | 2023-11-28 | ITM-2 | Monitor | 15 | SupplierB | Paid
+PAY-3 | 2023-12-02 | ITM-3 | Keyboard | 20 | SupplierD | Paid
+PAY-4 | 2023-12-05 | ITM-4 | Mouse | 30 | SupplierB | Unpaid
+PAY-5 | 2023-12-08 | ITM-5 | Headset | 10 | SupplierC | Paid
+PAY-6 | 2023-12-12 | ITM-2 | Monitor | 8 | SupplierB | Unpaid
+PAY-7 | 2023-12-15 | ITM-4 | Mouse | 15 | SupplierB | Paid
+PAY-8 | 2023-12-18 | ITM-5 | Headset | 7 | SupplierC | Unpaid
+Pay-9 | 2024-12-08 | ITM-1 | Laptop | 5 | SupplierA | unpaid
+Pay-10 | 2024-12-08 | ITM-1 | Laptop | 5 | SupplierA | Paid
+Pay-11 | 2024-12-08 | ITM-5 | Headset | 7 | SupplierC | Paid
